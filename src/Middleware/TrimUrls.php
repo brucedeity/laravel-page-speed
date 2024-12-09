@@ -1,6 +1,6 @@
 <?php
 
-namespace RenatoMarinho\LaravelPageSpeed\Middleware;
+namespace brucedeity\LaravelPageSpeed\Middleware;
 
 class TrimUrls extends PageSpeed
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace RenatoMarinho\LaravelPageSpeed\Test\Middleware;
+namespace brucedeity\LaravelPageSpeed\Test\Middleware;
 
-use RenatoMarinho\LaravelPageSpeed\Middleware\DeferJavascript;
-use RenatoMarinho\LaravelPageSpeed\Test\TestCase;
+use brucedeity\LaravelPageSpeed\Middleware\DeferJavascript;
+use brucedeity\LaravelPageSpeed\Test\TestCase;
 
 class DeferJavascriptTest extends TestCase
 {
